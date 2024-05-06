@@ -4,6 +4,7 @@ This project entails a comprehensive analysis of COVID-19 data sourced from the 
 
 ## Data Source
 The primary data source for this analysis is the COVID-19 dataset provided by CSSE. The dataset includes information on confirmed cases, deaths, and recoveries from COVID-19 across different countries and regions worldwide. The data is updated regularly to ensure accuracy and relevance.
+Here are the link - https://github.com/CSSEGISandData/COVID-19
 
 ## Analysis Methodology
 The analysis is conducted using Microsoft Excel, leveraging a combination of descriptive statistics, data visualization techniques, and exploratory data analysis methods. Various charts, graphs, and pivot tables are utilized to visualize trends, identify patterns, and derive insights from the data.
