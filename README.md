@@ -10,7 +10,7 @@ Here are the link - https://github.com/CSSEGISandData/COVID-19
 The analysis is conducted using Microsoft Excel, leveraging a combination of descriptive statistics, data visualization techniques, and exploratory data analysis methods. Various charts, graphs, and pivot tables are utilized to visualize trends, identify patterns, and derive insights from the data.
 
 ## Contents
-- `data/`: Contains the raw data files sourced from CSSE.
+- `Readme/Data Source`: Contains the CSSE Covid-19 Data Source link .
 - `Covid-19_analysis/`: Includes the Excel workbook with the analysis, charts, graphs, and tables.
 - `visualizations/`: Contains visual representations of the data, including charts, graphs, and maps.
 
