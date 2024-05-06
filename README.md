@@ -11,21 +11,22 @@ The analysis is conducted using Microsoft Excel, leveraging a combination of des
 
 ## Contents
 - `data/`: Contains the raw data files sourced from CSSE.
-- `analysis/`: Includes the Excel workbook with the analysis, charts, graphs, and tables.
-- `results/`: Provides summaries and interpretations of key findings and insights from the analysis.
+- `Covid-19_analysis/`: Includes the Excel workbook with the analysis, charts, graphs, and tables.
 - `visualizations/`: Contains visual representations of the data, including charts, graphs, and maps.
 
 ## Getting Started
 To explore or replicate the analysis:
 1. Clone this repository to your local machine.
-2. Navigate to the `analysis/` directory and open the Excel workbook.
+2. Navigate to the `Covid-19_analysis/` directory and open the Excel workbook.
 3. Review the analysis, explore the data, and interact with the visualizations to gain insights into COVID-19 trends.
 
 ## Dashboard
   
 ![Screenshot of Analysis Dashboard](https://github.com/DhanpalPrajapat7/COVID-19-Data-Analysis-Deshboard-Excel/blob/main/Screenshots.png)
 
-
+### Data Analysis
+- Excel: Leveraged Excel for data processing, analysis, and visualization.
+- Pivot Tables: Utilized pivot tables for summarizing and analyzing large datasets efficiently.
 
 ## Contributing
 Contributions to enhance or extend the analysis are welcome. If you have ideas for improving the analysis methodology, adding new features, or exploring additional aspects of the data, feel free to fork this repository and submit a pull request.
