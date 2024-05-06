@@ -1,4 +1,4 @@
-# COVID-19-Data-Analysis-Deshboard-Excel
+# COVID-19-Data-Analysis-Deshboard
 ## Overview
 This project entails a comprehensive analysis of COVID-19 data sourced from the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. The analysis delves into various aspects of the pandemic, including the spread of the virus, its impact on different regions, and trends over time.
 
