@@ -20,14 +20,14 @@ To explore or replicate the analysis:
 2. Navigate to the `analysis/` directory and open the Excel workbook.
 3. Review the analysis, explore the data, and interact with the visualizations to gain insights into COVID-19 trends.
 
-## Results
-The results of the analysis are summarized in the `results/` directory. These include interpretations of key findings, notable trends, and insights derived from the data analysis process.
+## Dashboard
+  
+![Screenshot of Analysis Dashboard](https://github.com/DhanpalPrajapat7/COVID-19-Data-Analysis-Deshboard-Excel/blob/main/Screenshots.png)
+
+
 
 ## Contributing
 Contributions to enhance or extend the analysis are welcome. If you have ideas for improving the analysis methodology, adding new features, or exploring additional aspects of the data, feel free to fork this repository and submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE), granting permission for unrestricted use, modification, and distribution of the code for personal or commercial purposes, with attribution to the original authors.
 
 ## Acknowledgments
 Special thanks to the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University for providing the COVID-19 dataset, enabling researchers and analysts worldwide to study and understand the impact of the pandemic.
